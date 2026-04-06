@@ -1,0 +1,101 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Herbal Shampoo",
+    "slug": "herbal-shampoo",
+    "category": "shampoo",
+    "tagline": "Nature's Care for Hair",
+    "shortDescription": "Enriched with Kalonji, Bhringraj, Shikakai & 14+ natural herbs for naturally strong and shiny hair.",
+    "description": "Sattva Care Herbal Shampoo is a premium handcrafted hair care solution made with 100% natural and herbal ingredients. Enriched with the goodness of Kalonji, Jatamansi, Rosemary, Shikakai, Areetha, Bhringraj, Amaltas, Jasood, Methi, Rice, Amla, Alshi, Aloe Vera, Curry Leaves, Ratanjyot, Rose Glycerin, and Vitamin-E, this chemical-free shampoo gently cleanses your scalp while nourishing hair from root to tip. It helps reduce hair fall, prevents dandruff, and promotes thick, lustrous hair growth. Suitable for all hair types. Handcrafted in India with love.",
+    "ingredients": ["Kalonji", "Jatamansi", "Rosemary", "Shikakai", "Areetha", "Bhringraj", "Amaltas", "Jasood", "Methi", "Rice", "Amla", "Alshi", "Aloe Vera", "Curry Leaves", "Ratanjyot", "Rose Glycerin", "Vitamin-E"],
+    "benefits": [
+      "Reduces hair fall by strengthening roots",
+      "Gently cleanses without stripping natural oils",
+      "Controls dandruff and scalp irritation",
+      "Promotes thick, shiny, and bouncy hair",
+      "No harsh chemicals, no artificial colours & fragrance",
+      "Gentle on skin & hair",
+      "Suitable for daily use",
+      "Handmade with care"
+    ],
+    "howToUse": "Wet hair thoroughly. Take a coin-sized amount, lather between palms, and massage gently onto scalp. Leave for 2-3 minutes. Rinse with lukewarm water. Use 2-3 times a week for best results.",
+    "variants": [
+      { "size": "100ml", "mrp": 249, "price": 199, "stock": 50 },
+      { "size": "200ml", "mrp": 399, "price": 299, "stock": 35 },
+      { "size": "500ml", "mrp": 799, "price": 599, "stock": 20 }
+    ],
+    "image": "/images/herbal-shampoo.webp",
+    "gallery": ["/images/herbal-shampoo.webp"],
+    "rating": 4.5,
+    "reviewCount": 128,
+    "tags": ["bestseller", "chemical-free", "handcrafted"],
+    "featured": true,
+    "createdAt": "2026-01-15"
+  },
+  {
+    "id": "prod-002",
+    "name": "Herbal Hair Oil",
+    "slug": "herbal-hair-oil",
+    "category": "hair-oil",
+    "tagline": "Ancient Ayurvedic Formula for Hair Revival",
+    "shortDescription": "A powerful blend of Bhringraj, Brahmi & Coconut Oil to strengthen and revitalize your hair.",
+    "description": "Sattva Care Herbal Hair Oil is a luxurious handcrafted blend of cold-pressed oils and potent ayurvedic herbs. Made with 100% natural ingredients, this nourishing oil penetrates deep into hair follicles to strengthen, repair, and rejuvenate damaged hair. Regular use promotes rapid hair growth, prevents premature greying, and gives your hair a natural shine and bounce. The non-greasy formula absorbs quickly and leaves hair feeling soft and manageable. No artificial colours or fragrance. No harsh chemicals. Handcrafted in Surat, India.",
+    "ingredients": ["Bhringraj Oil", "Brahmi Extract", "Amla Oil", "Virgin Coconut Oil", "Castor Oil", "Jatamansi", "Curry Leaf Extract", "Sesame Oil", "Vitamin E Oil", "Neem Oil", "Methi Extract"],
+    "benefits": [
+      "Stimulates hair growth and reduces thinning",
+      "Prevents premature greying",
+      "Deep conditions and repairs damaged hair",
+      "Reduces stress and promotes relaxation",
+      "Non-greasy, fast-absorbing formula",
+      "No artificial colours & fragrance",
+      "No harsh chemicals",
+      "Suitable for daily use"
+    ],
+    "howToUse": "Warm a small amount of oil between palms. Gently massage into scalp using circular motions for 5-10 minutes. Apply to hair lengths and tips. Leave for at least 1 hour or overnight for deep conditioning. Wash with Sattva Care Herbal Shampoo.",
+    "variants": [
+      { "size": "100ml", "mrp": 299, "price": 249, "stock": 45 },
+      { "size": "200ml", "mrp": 499, "price": 399, "stock": 30 },
+      { "size": "500ml", "mrp": 999, "price": 749, "stock": 15 }
+    ],
+    "image": "/images/hair-oil.webp",
+    "gallery": ["/images/hair-oil.webp"],
+    "rating": 4.7,
+    "reviewCount": 95,
+    "tags": ["premium", "cold-pressed", "handcrafted"],
+    "featured": true,
+    "createdAt": "2026-01-20"
+  },
+  {
+    "id": "prod-003",
+    "name": "Herbal Soap",
+    "slug": "herbal-soap",
+    "category": "soap",
+    "tagline": "Pure Herbal Bathing Experience",
+    "shortDescription": "Handcrafted with Turmeric, Neem & Aloe Vera for naturally glowing and healthy skin.",
+    "description": "Sattva Care Herbal Soap is a handcrafted, cold-processed bathing bar made with the finest natural ingredients. Infused with the antibacterial power of Neem, the brightening properties of Turmeric, and the soothing hydration of Aloe Vera, this soap provides a luxurious bathing experience while caring for your skin. It gently removes impurities, balances skin pH, and leaves your skin feeling fresh, soft, and naturally radiant. Free from synthetic fragrances, artificial colors, and harsh chemicals. Each bar is handmade with love in Surat, India.",
+    "ingredients": ["Neem Extract", "Turmeric Powder", "Aloe Vera Gel", "Coconut Oil", "Olive Oil", "Shea Butter", "Essential Oils Blend", "Honey", "Sandalwood Powder", "Rose Glycerin"],
+    "benefits": [
+      "Deep cleanses while moisturizing skin",
+      "Natural antibacterial & antifungal properties",
+      "Brightens skin tone with turmeric",
+      "Soothes irritated and sensitive skin",
+      "No artificial colours & fragrance",
+      "No harsh chemicals",
+      "Gentle on skin",
+      "Suitable for daily use"
+    ],
+    "howToUse": "Wet the soap and lather between hands or on a loofah. Apply to wet body in gentle circular motions. Rinse thoroughly with water. For face, use gentle strokes and avoid eye area. Pat dry with a soft towel.",
+    "variants": [
+      { "size": "75g", "mrp": 149, "price": 99, "stock": 100 },
+      { "size": "125g", "mrp": 199, "price": 149, "stock": 75 },
+      { "size": "Pack of 3 (75g each)", "mrp": 399, "price": 249, "stock": 40 }
+    ],
+    "image": "/images/herbal-soap.webp",
+    "gallery": ["/images/herbal-soap.webp"],
+    "rating": 4.3,
+    "reviewCount": 210,
+    "tags": ["handmade", "organic", "bestseller"],
+    "featured": true,
+    "createdAt": "2026-02-01"
+  }
+]

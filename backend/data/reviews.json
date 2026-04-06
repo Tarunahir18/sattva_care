@@ -1,0 +1,56 @@
+[
+  {
+    "id": "rev-001",
+    "productId": "prod-001",
+    "name": "Priya Sharma",
+    "rating": 5,
+    "comment": "Amazing shampoo! My hair fall has reduced significantly in just 2 weeks. The herbal fragrance is so refreshing. Totally switching to this permanently!",
+    "date": "2026-03-15",
+    "verified": true
+  },
+  {
+    "id": "rev-002",
+    "productId": "prod-001",
+    "name": "Rahul Verma",
+    "rating": 4,
+    "comment": "Good quality natural shampoo. Takes a bit to lather compared to chemical ones but my scalp feels much healthier. Will repurchase!",
+    "date": "2026-03-20",
+    "verified": true
+  },
+  {
+    "id": "rev-003",
+    "productId": "prod-002",
+    "name": "Sneha Patel",
+    "rating": 5,
+    "comment": "This hair oil is a game-changer! I've been using it for a month and I can already see new baby hairs growing. The oil is light and doesn't feel greasy at all.",
+    "date": "2026-02-28",
+    "verified": true
+  },
+  {
+    "id": "rev-004",
+    "productId": "prod-002",
+    "name": "Amit Kumar",
+    "rating": 5,
+    "comment": "Best herbal oil I've ever used. My grandmother used to make similar oil at home. This brings back those memories with professional quality. Highly recommended!",
+    "date": "2026-03-10",
+    "verified": true
+  },
+  {
+    "id": "rev-005",
+    "productId": "prod-003",
+    "name": "Meera Joshi",
+    "rating": 4,
+    "comment": "The soap feels so luxurious on skin. I love the subtle turmeric scent. My skin feels naturally moisturized even without applying lotion after bath.",
+    "date": "2026-03-05",
+    "verified": true
+  },
+  {
+    "id": "rev-006",
+    "productId": "prod-003",
+    "name": "Deepak Singh",
+    "rating": 5,
+    "comment": "Bought the pack of 3 and my whole family loves it! Even my kids prefer this over commercial soaps. The neem really helps with my skin issues. Five stars!",
+    "date": "2026-03-18",
+    "verified": true
+  }
+]
