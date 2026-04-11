@@ -1568,7 +1568,7 @@ button {
 /* ---- Responsive ---- */
 @media (max-width: 992px) {
   .hero-title { font-size: 2.5rem; }
-  .hero-section { min-height: auto; padding: 120px 0 60px; }
+  .hero-section { padding: 120px 0 60px; }
   .hero-product-img { max-height: 350px; margin-top: 40px; }
   .section-title { font-size: 1.8rem; }
 }
